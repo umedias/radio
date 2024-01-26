@@ -61,7 +61,7 @@ body {
   box-shadow: 0 0 10px #F2E3DB;
   
   font-family: montserrat;
-  position: fixed;
+ /* position: fixed;*/
   width: 100%;
   top: 0;
 }
