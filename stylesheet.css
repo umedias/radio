@@ -1,10 +1,21 @@
+/*Style sheet begins here*/
+body {
+  background-color: #ffffff;
+  position: static;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
 .container {
   display: flex;
   justify-content: center;
   align-items: center;
 }
 .item {
-  display: inline-block;
   text-align: center;
   width: 50em;
+}
+.range-slider-handler{
+  height: 1.5em;
+  width: auto;
 }
